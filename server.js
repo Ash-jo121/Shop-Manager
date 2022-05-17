@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const port = 3000;
 const MongoClient = require('mongodb').MongoClient;
 const dbUrl =
-  'mongodb+srv://admin:<password>@cluster0.38khl.mongodb.net/<database>?retryWrites=true&w=majority';
+'mongodb+srv://ashjo:Ashucet123%23@cluster0.mcyt8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 
 const app = express();
 
